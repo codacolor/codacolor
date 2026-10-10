@@ -17,7 +17,7 @@ ART_COLS = 40          # width of the ASCII mark in characters
 CHAR_ASPECT = 0.5      # monospace cell is ~2x taller than wide
 RAMP = " .:-=+*%#@"    # coverage -> character, light to dense
 PANEL_WIDTH = 58       # characters per panel line
-FOUNDED = date(2011, 10, 1)  # YouTube @codacolor created (API publishedAt) [Cody, 2026-10-09: "From channel start."]
+FOUNDED = date(2016, 9, 10)  # Cody's chosen start date [Cody, 2026-10-09]
 
 PERIWINKLE = "#5375f6"
 THEMES = {
@@ -61,7 +61,7 @@ PANEL = [
     ("Shell", "YouTube, Newsletter, Studio"),
     ("", ""),
     ("Programs", "Photo Flow Method, Codacolor Studio"),
-    ("Teaching", "First principles, no jargon"),
+    ("Approach", "First principles photography"),
     ("Gear", "Light"),
     ("Mission", "Get you past the camera, into flow"),
     ("", ""),
